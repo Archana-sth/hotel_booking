@@ -27,13 +27,13 @@ The following is a guide to running the project files locally
 * clone the repository : git clone https://github.com/Archana-sth/hotel_booking_analysis.git
 * Navigate to the project folder in Gitbash/Terminal.
 * Create a virtual environment in the project folder :
-     mac/linux - python3 -m venv venv ,
-     windows - python -m venv venv
+     - mac/linux : python3 -m venv venv ,
+     - windows : python -m venv venv
 * Activate virtual environment:
-     Mac/Linux - source venv/bin/activate,
-     windows - source venv/Scripts/activate
+     - Mac/Linux : source venv/bin/activate,
+     - windows : source venv/Scripts/activate
 * Install required package : pip install -r requirements.txt.
 * to leave  this virtual environment :
-     deactivate.
+     deactivate
 
 
