@@ -15,7 +15,7 @@ The findings from this analysis aim to shed light on critical insights for hotel
 
 
 ## Requirements
-* Python
+* Python (3.10.8)
 * Jupyter Notebook
 * Pandas
 * NumPy
